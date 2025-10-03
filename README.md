@@ -2,3 +2,7 @@
 [<img align="left" alt="artyom-fedosov | LinkedIn" width="22px" src="https://www.svgrepo.com/show/452051/linkedin.svg" />](https://www.linkedin.com/in/artjoms-fedosovs/)
 [<img align="left" alt="artyom-fedosov | Telegram" width="22px" src="https://www.svgrepo.com/show/452115/telegram.svg" />](https://t.me/artyom_fedosov)
 [<img align="left" alt="artyom-fedosov | Stackoverflow" width="22px" src="https://www.svgrepo.com/show/475686/stackoverflow-color.svg" />](https://stackoverflow.com/users/31478410/artyom-fedosov)
+
+<br>
+
+<a href="https://stackoverflow.com/users/31478410/artyom-fedosov"><img src="https://stackoverflow.com/users/flair/31478410.png" width="208" height="58" alt="profile for Artyom Fedosov at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Artyom Fedosov at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
