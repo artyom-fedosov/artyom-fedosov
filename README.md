@@ -5,4 +5,4 @@
 
 <br>
 
-<a href="https://stackoverflow.com/users/31478410/artyom-fedosov"><img src="https://stackoverflow.com/users/flair/31478410.png" width="208" height="58" alt="profile for Artyom Fedosov at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Artyom Fedosov at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/31478410/artyom-fedosov"><img src="https://stackoverflow.com/users/flair/31478410.png?theme=clean" width="208" height="58" alt="profile for Artyom Fedosov at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Artyom Fedosov at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
