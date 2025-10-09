@@ -9,3 +9,10 @@
 <img alt="StackOverflow"
 src="https://stackoverflow-badge.vercel.app/?userID=31478410" />
 </a>
+
+### Technologies
+
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
