@@ -13,6 +13,9 @@ src="https://stackoverflow-badge.vercel.app/?userID=31478410" />
 ### Technologies
 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-red?logo=cmake)
+![clangtidy](https://img.shields.io/badge/clang%20tidy-green?logo=llvm)
+![clangformat](https://img.shields.io/badge/clang%20format-blue?logo=llvm)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
